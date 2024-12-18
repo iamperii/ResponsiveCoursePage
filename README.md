@@ -17,7 +17,6 @@ Flexbox and/or CSS Grid for layout.
 ## 🎯 Features
 Fully responsive layout:
 
-Desktop view: Wide screen with detailed content.
-Tablet view: Adjusted spacing and content alignment.
-Mobile view: Stacked content with optimized spacing.
-Simple and clean codebase with clear comments.
+** Desktop view: Wide screen with detailed content.
+** Tablet view: Adjusted spacing and content alignment.
+** Mobile view: Stacked content with optimized spacing.
